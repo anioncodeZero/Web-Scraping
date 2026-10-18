@@ -92,8 +92,8 @@ Every stage is **idempotent** — re-running produces the same set thanks to URL
 **Requires:** Python **3.10+**
 
 ```bash
-git clone https://github.com/<your-username>/data-miner.git
-cd data-miner
+git clone https://github.com/anioncodeZero/Web-Scraping.git
+cd Web-Scraping
 
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
